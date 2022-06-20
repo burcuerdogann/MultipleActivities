@@ -1,5 +1,5 @@
 # MultipleActivities
 
-Android Development / Java Tutorials - Lesson 10
+Android Development / Java Tutorial - Lesson 10
 
 Intent
